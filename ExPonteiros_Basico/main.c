@@ -31,6 +31,6 @@ int main()
     printf("\n A soma dos valores informados é %d.\n", soma);
     free(p);
 
-    printf("\n\n\n >>> Fim do programa <<<");
+    printf("\n\n\n>>> Fim do programa <<<");
     return 0;
 }
